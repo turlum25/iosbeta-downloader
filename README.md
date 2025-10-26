@@ -25,5 +25,5 @@ iOS beta versions download a lot faster than they do in the usual browser. But s
 
 # Upcoming updates
 
-Version 0.3 will add iPod2,1 and iPhone1,1 support and more clean UI.
+Version 0.3 will add iPod2,1 support and more clean UI.
 
