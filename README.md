@@ -4,7 +4,7 @@ This program is built on Python 3.13 and is currently in very early alpha stages
 
 # Device compatibility
 
-Currently, only iPod1,1 (iPod touch 1) is supported. 
+iPod touch 1, 2 and iPhone 2G has been implemented. 
 
 # How to run
 
@@ -25,5 +25,5 @@ iOS beta versions download a lot faster than they do in the usual browser. But s
 
 # Upcoming updates
 
-Version 0.3.0-stable will add iPod2,1 and iPhone1,1 support and more clean UI.
+Version 0.4.0-stable will add iPod3,1 and iPhone1,2 support.
 
